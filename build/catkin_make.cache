@@ -1,0 +1,2 @@
+bot_desc:exp
+-DCATKIN_DEVEL_PREFIX=/home/chronos/autobot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chronos/autobot_ws/install -G Unix Makefiles
